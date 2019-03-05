@@ -10,6 +10,8 @@ package banco_new;
  * @author Cristiane
  */
 public class Banco_new {
+    Conta corrente;
+    int ag = corrente.getAgencia();
 
     /**
      * @param args the command line arguments
