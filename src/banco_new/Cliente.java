@@ -19,6 +19,7 @@ public class Cliente {
     }
 
      public void setAg() {
+         this.ag = cc.getAgencia();
         System.out.println("Agencia");
     }
     
